@@ -35,7 +35,8 @@
 
 ## 1. Management Product
 ## 2. Management Promotion
-## 3. Management Growth Store
+## 3. Management Finance
+## 4. Store analytic
 
 ---
 
@@ -59,18 +60,17 @@
   - Input SKU product yang akan di diskon
   - Input persentase diskon
 - Menghapus diskon product
+- Mengupdate Promosi
 - Melihat seluruh product yang sedang diskon
   - Menampilkan harga asli dan harga setelah diskon
   - Menampilkan product dengan diskon terbesar
 
 ---
 
-# Menu 3 - Finance management
+# Menu 3 -  transation management 
 
-- Melihat transaksi masuk dan keluar
-- Menampilkan total transaksi
+- Melihat transation masuk dan keluar total transation
 - Mengecek saldo store
-- Menampilkan profit store
 - unduh laporan keuangan csv
 
 
