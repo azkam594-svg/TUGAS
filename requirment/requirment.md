@@ -1,4 +1,4 @@
-# Store Management CLI
+# Store Management GUI
 
 ---
 
@@ -11,7 +11,7 @@
 
 ## External Library
 - Matplotlib
-- rich
+- Tikinter
 
 ---
 
@@ -72,6 +72,7 @@
 - Melihat transation masuk dan keluar total transation
 - Mengecek saldo store
 - unduh laporan keuangan csv
+- riwayat transaction
 
 
 ---
